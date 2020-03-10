@@ -1,0 +1,21 @@
+﻿Date,Time,Type,Postcode,Prop_Info,Latitude,Longitude,Address,Council
+03/10/2019,10:30,UIYCI,W6 0NJ,1BFF,51.499226,-0.227835,"4, 139 Hammersmith Grove, London,",Hammersmith and Fulham
+03/10/2019,13:15,IYCI,W3 7FG,2BFF,51.509399,-0.25087,"574 Bromyard House, Bromyard Avenue, London",Ealing
+03/10/2019,15:30,CO,W13 9TU,2BUH,51.50379,-0.319957,19 Salisbury Road,Ealing
+04/10/2019,13:00,IYCI,W8 4HE,2BFF,51.504549,-0.192034,"Flat D, Vicarage Court",Kensington and Chelsea
+05/10/2019,12:30,CI,SW6 7UA,4BUH,51.480802,-0.202724,72 Shorrolds Road,Hammersmith and Fulham
+10/10/2019,11:00,CI,W8 5SH,1BFF,51.4997,-0.1925,"503 Sovereign Court,29 Wrights Lane",Kensington and Chelsea
+12/10/2019,09:00,UIYCO,SW1H 0HY,1BFF,51.496815,-0.134555,"85 Artillery Mansions,Victoria Street",Westminster
+12/10/2019,11:30,CO,NW3 6AL,NULL,51.550015,-0.180958,"5, 11 Frognal",Camden
+16/10/2019,10:30,IYCI,SE1 2JL,NULL,51.50145,-0.074729,"172 The Circle, Queen Elizabeth Street, London",Southwark
+17/10/2019,10:30,UIYCO,W4 3AZ,1B1RFF,51.489096,-0.285755,1 Kew Bridge Court,Hounslow
+24/10/2019,11:30,CI,SW5 0EX,4BUF,51.49147,-0.19176,"115 Barkston Gardens, London,",Kensington and Chelsea
+24/10/2019,15:30,UIYCI,SW1V 2AJ,2BFF,51.490214,-0.140802,"1, 54 Warwick Square",Westminster
+24/10/2019,16:30,UIYCO,SW6 1NB,1BFF,51.48173,-0.199893,346B North End Road,Hammersmith and Fulham
+25/10/2019,09:00,MTI,N4 2BA,NULL,51.570833,-0.089375,"15 Riverside Apartments, Goodchild Road, ",Hackney
+25/10/2019,14:00,IYCI,NW3 7TF,4BUF,51.562932,-0.193258,7 Beaumont Gardens,Barnet
+30/10/2019,09:30,CO,W12 9AS,1BUF,51.50312,-0.242954,"2 Ravens House, 117 Askew Road ",Hammersmith and Fulham
+30/10/2019,11:00,CO,W3 7BN,3BFF,51.507595,-0.249987,234 Bromyard House Bromyard Avenue Acton ,Ealing
+31/10/2019,11:00,UIYCI,N1 8GB,2BFF,51.530916,-0.097722,"1 Angel Waterside,12 Graham Street,",Islington
+31/10/2019,13:00,UIYCO,NW9 4BT,2BUF,51.5984,-0.244914,"18 Casa Court,4 Bristol Avenue,",Barnet
+31/10/2019,15:30,UIYCO,NW1 7HL,4BUF,51.538808,-0.143902,"1, 172a Arlington Road",Camden
